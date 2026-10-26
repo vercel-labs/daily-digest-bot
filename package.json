@@ -12,13 +12,13 @@
     "@chat-adapter/slack": "^4.30.0",
     "@chat-adapter/state-redis": "^4.30.0",
     "@vercel/connect": "^0.2.4",
-    "ai": "^6.0.205",
+    "ai": "6.0.214",
     "chat": "^4.30.0",
-    "next": "16.2.9",
+    "next": "16.4.1",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "workflow": "^4.4.0",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -26,7 +26,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.2.9",
+    "eslint-config-next": "16.4.1",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
